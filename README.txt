@@ -3,7 +3,7 @@ Mock IA - README
 (Game) by Trevor Yip
 
 ------------Description------------
-This is a RPG game
+This is the first interation of the RPG game. Currently, it contains one room with a moveable character, collision detection, and an NPC.
 
 ------------Advantages------------
 
